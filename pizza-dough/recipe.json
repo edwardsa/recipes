@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "name": "Perfect Home-Oven Pizza Dough (Poolish Method)",
   "description": "Vito Iacopelli's method for light, soft-and-crunchy Neapolitan-style pizza made in a home oven, using an overnight poolish pre-ferment so the final dough is ready in about 2 hours.",
-  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/08-finished-pizza.jpg",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/10a-finished.jpg",
   "prepTime": "PT30M",
   "cookTime": "PT10M",
   "totalTime": "P1D",
@@ -30,29 +30,53 @@
   ],
   "recipeInstructions": [
     { "@type": "HowToSection", "name": "Poolish (24 hours ahead)", "itemListElement": [
-      { "@type": "HowToStep", "text": "Combine 300 ml room temperature water, 5 g dry yeast and 5 g honey, and stir until the yeast melts." },
-      { "@type": "HowToStep", "text": "Add 300 g of 00 flour and mix until combined.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/01-poolish.jpg" },
-      { "@type": "HowToStep", "text": "Cover and keep 1 hour at room temperature, then refrigerate overnight (about 24 hours) until fermented and bubbly." }
+      { "@type": "HowToStep", "text": "Combine 300 ml room temperature water, 5 g dry yeast and 5 g honey, and stir until the yeast melts. Add 300 g of 00 flour and mix until combined.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/01a-poolish-mix.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/01b-poolish-done.jpg"
+      ] },
+      { "@type": "HowToStep", "text": "Cover and keep 1 hour at room temperature, then refrigerate overnight (about 24 hours) until fermented and bubbly.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/01b-poolish-done.jpg" }
     ]},
     { "@type": "HowToSection", "name": "Dough", "itemListElement": [
-      { "@type": "HowToStep", "text": "Put 700 ml water in a bowl and add all of the fermented poolish, mixing to dissolve it into the water." },
-      { "@type": "HowToStep", "text": "Add most of the 1250 g flour and mix, then add 40 g sea salt, then add the remaining flour." },
-      { "@type": "HowToStep", "text": "Mix with a spatula until it comes together, turn out onto the counter, and work by hand until smooth; it will still be sticky.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/02-working-the-dough.jpg" },
+      { "@type": "HowToStep", "text": "Put 700 ml water in a bowl and add all of the fermented poolish, mixing to dissolve it into the water. Add most of the 1250 g flour and mix, then add 40 g sea salt, then add the remaining flour." },
+      { "@type": "HowToStep", "text": "Mix with a spatula until it comes together, turn out onto the counter, and work by hand (press and fold) until smooth; it will still be sticky.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/02a-mixing.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/02b-kneading.jpg"
+      ] },
       { "@type": "HowToStep", "text": "Cover and let the dough rest for 15 minutes." },
-      { "@type": "HowToStep", "text": "With oiled hands, fold the edges in toward the top to build tension and shape into a large smooth ball.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/03-forming-ball.jpg" },
+      { "@type": "HowToStep", "text": "With oiled hands, fold the edges in toward the top to build tension, lift and round the dough, and shape into one large smooth ball.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/03a-fold-start.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/03b-fold-edges.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/03c-lift-round.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/03d-smooth-ball.jpg"
+      ] },
       { "@type": "HowToStep", "text": "Coat the ball with a little olive oil, cover, and leave 30 minutes at room temperature." },
-      { "@type": "HowToStep", "text": "Divide the dough into balls, about 100 g each. Place on a semolina-dusted tray two to three fingers apart, oil the tops, cover, and rest 2 hours at room temperature.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/04-dough-balls.jpg" }
+      { "@type": "HowToStep", "text": "Divide the dough into pieces (about 100 g each), then shape each into a tight ball: cut and roll the pieces, tuck the edges under keeping the smooth side up, then place on a semolina-dusted tray two to three fingers apart, oil the tops, cover, and rest 2 hours at room temperature.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/04a-divide.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/04b-roll-pieces.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/04c-shape-ball.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/04d-tray-spacing.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/04e-balls-resting.jpg"
+      ] }
     ]},
     { "@type": "HowToSection", "name": "Assemble & bake", "itemListElement": [
       { "@type": "HowToStep", "text": "Place a pizza stone in the oven and preheat at maximum temperature (around 300C) for 40 minutes to 1 hour." },
-      { "@type": "HowToStep", "text": "Make the sauce: lightly blend or hand-crush a can of whole peeled tomatoes, then stir in 1 tsp salt, a little olive oil and torn fresh basil." },
-      { "@type": "HowToStep", "text": "Drain and cut the fresh mozzarella into roughly 1/4-inch slices (do not cut it too thin)." },
-      { "@type": "HowToStep", "text": "Open a dough ball by dusting with flour and pressing the air outward to the edges, keeping a raised crust.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/05-pressing-out-air.jpg" },
-      { "@type": "HowToStep", "text": "Flip and stretch the dough to about 8 to 10 inches, letting the air stay in the crust.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/06-stretching-dough.jpg" },
-      { "@type": "HowToStep", "text": "Top the base with just the tomato sauce and brush a little olive oil on the crust.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/07-sauced-base.jpg" },
-      { "@type": "HowToStep", "text": "Slide the pizza onto the preheated stone and bake until the base is golden." },
-      { "@type": "HowToStep", "text": "Take the pizza out, add the fresh mozzarella and parmesan, drizzle with more olive oil, and return to the oven until the mozzarella bubbles." },
-      { "@type": "HowToStep", "text": "Remove the finished pizza, garnish with fresh basil, and serve soft and crunchy.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/08-finished-pizza.jpg" }
+      { "@type": "HowToStep", "text": "Make the sauce: lightly blend or hand-crush a can of whole peeled tomatoes, then stir in 1 tsp salt, a little olive oil and torn fresh basil.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/05a-sauce.jpg" },
+      { "@type": "HowToStep", "text": "Drain and cut the fresh mozzarella into roughly 1/4-inch slices (do not cut it too thin).", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/06a-mozzarella.jpg" },
+      { "@type": "HowToStep", "text": "Open and stretch a dough ball: dust with flour and press the air outward to the edges keeping a raised crust, then flip and gently stretch to about 8 to 10 inches, letting the air stay in the crust.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/07a-press-air.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/07b-open-wider.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/07c-lift-stretch.jpg"
+      ] },
+      { "@type": "HowToStep", "text": "Top the base with just the tomato sauce and brush a little olive oil on the crust.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/08a-sauce-base.jpg" },
+      { "@type": "HowToStep", "text": "Slide the pizza onto the preheated stone and bake until the base is golden.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/09a-into-oven.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/09b-baking.jpg"
+      ] },
+      { "@type": "HowToStep", "text": "Take the pizza out, add the fresh mozzarella and parmesan, drizzle with more olive oil, and return to the oven until the mozzarella bubbles.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/09c-add-toppings.jpg" },
+      { "@type": "HowToStep", "text": "Remove the finished pizza, garnish with fresh basil, and serve soft and crunchy.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/10a-finished.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/pizza-dough/images/10b-finished-detail.jpg"
+      ] }
     ]}
   ]
 }

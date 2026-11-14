@@ -1,11 +1,16 @@
 # Perfect Pizza Dough (Home Oven)
 
-Step images in `images/`:
-1. `01-poolish.jpg` — the poolish pre-ferment
-2. `02-working-the-dough.jpg` — working the dough by hand
-3. `03-forming-ball.jpg` — folding/forming into a smooth ball
-4. `04-dough-balls.jpg` — divided dough balls resting
-5. `05-pressing-out-air.jpg` — pressing the air out of the disc
-6. `06-stretching-dough.jpg` — stretching the dough
-7. `07-sauced-base.jpg` — stretched base with tomato sauce
-8. `08-finished-pizza.jpg` — the finished Margherita
+Full recipe in `recipe.json` (schema.org/Recipe). Step images live in `images/`,
+with multi-frame sequences for action steps (shaping, stretching, baking).
+
+## Image set
+- 01a/01b — poolish: mixing, finished pre-ferment
+- 02a/02b — dough: bringing together, kneading
+- 03a–03d — forming the big ball (fold, lift, round, smooth)
+- 04a–04e — dividing & shaping dough balls, spacing on tray, resting
+- 05a — tomato sauce
+- 06a — cutting the mozzarella
+- 07a–07c — pressing out air and stretching the base
+- 08a — sauced base
+- 09a–09c — into the oven, baking, adding toppings
+- 10a/10b — finished pizza (hero + detail)
