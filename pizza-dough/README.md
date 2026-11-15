@@ -9,6 +9,7 @@ field as plain links.
 
 ## Clips (MP4)
 - kneading.mp4 — working the sticky dough by hand / spatula (smooths after the rest)
+- tip-out-of-bowl.mp4 — turning the rested dough out of the bowl (flip top back up, oil hands)
 - forming-ball.mp4 — folding/turning the big dough into a smooth ball
 - oil-bowl-rest.mp4 — oiling the bowl, placing the dough in (top up), covering to rest
 - balling-technique-1-measure-cut.mp4 — the measure-and-cut shaping method
