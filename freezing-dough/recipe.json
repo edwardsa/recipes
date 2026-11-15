@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "How to Freeze and Defrost Pizza Dough",
+  "description": "Vito Iacopelli's method for freezing leftover pizza dough at its peak and defrosting it so it bakes like fresh, keeping well for about three to four months.",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/12a-finished.jpg",
+  "recipeYield": "Keeps 3-4 months frozen",
+  "recipeIngredient": [
+    "leftover proofed pizza dough balls",
+    "semolina (or plain flour)",
+    "plastic wrap"
+  ],
+  "recipeInstructions": [
+    { "@type": "HowToSection", "name": "Freeze", "itemListElement": [
+      { "@type": "HowToStep", "text": "Use the dough at its correct point of fermentation, the same point at which you would bake with it, not over-proofed and not under-proofed.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/01a-fermentation-point.jpg" },
+      { "@type": "HowToStep", "text": "Wrap the dough tightly so there is no air trapped inside.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/02a-wrap-no-air.jpg" },
+      { "@type": "HowToStep", "text": "Lay the wrapped dough flat in the freezer (keep the surface flat, do not let it fold or curl) and freeze until solid.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/03a-flat-in-freezer.jpg" }
+    ]},
+    { "@type": "HowToSection", "name": "Save space (after 24 hours)", "itemListElement": [
+      { "@type": "HowToStep", "text": "After about 24 hours, once the dough is completely frozen, peel off the plastic wrap. Work quickly so the dough does not start to defrost.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/04a-unwrap-frozen.jpg" },
+      { "@type": "HowToStep", "text": "Detach the frozen dough balls from each other.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/05a-detach.jpg" },
+      { "@type": "HowToStep", "text": "Wrap each dough ball individually and return them to the freezer; this saves space and keeps them well for about three to four months (longer if you remove all the air).", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/06a-rewrap-individually.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/clips/space-saving.mp4"
+      ] }
+    ]},
+    { "@type": "HowToSection", "name": "Defrost (night before)", "itemListElement": [
+      { "@type": "HowToStep", "text": "The night before you want to bake, put a little semolina (or flour) on the bottom of a pan, place a frozen dough ball in, dust the top with more semolina so the cover will not stick, cover, and put it in the fridge overnight.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/07a-semolina-pan.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/08a-dough-in-pan.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/09a-into-fridge.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/clips/defrost-setup.mp4"
+      ] },
+      { "@type": "HowToStep", "text": "The next morning, take the dough out of the fridge; the slow overnight thaw brings it back to life, soft and ready.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/10a-defrosted.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/clips/defrost-out-of-fridge.mp4"
+      ] }
+    ]},
+    { "@type": "HowToSection", "name": "Use", "itemListElement": [
+      { "@type": "HowToStep", "text": "Take the dough out of the fridge about 1 hour before using so it comes to room temperature (this avoids black spots on the baked pizza). Keep any dough you are not using covered." },
+      { "@type": "HowToStep", "text": "Dust with semolina, stretch the base (keep it to about 10 inches if the dough is highly hydrated), and pop any large bubbles so they do not scorch.", "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/11a-stretched.jpg" },
+      { "@type": "HowToStep", "text": "Top and bake as usual; the crust comes out like fresh dough.", "image": [
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/12a-finished.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/12b-finished.jpg",
+        "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/freezing-dough/images/12c-finished.jpg"
+      ] }
+    ]}
+  ]
+}
