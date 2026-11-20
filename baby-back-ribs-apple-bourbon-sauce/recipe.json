@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "American BBQ: Baby Back Ribs with Apple Bourbon BBQ Sauce",
   "description": "American-style pork baby back ribs rubbed overnight, smoked low and slow using the Minion method, wrapped in butter and finished with an apple bourbon BBQ sauce.",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/baby-back-ribs-apple-bourbon-sauce/images/05a-finished.jpg",
   "author": {
     "@type": "Organization",
     "name": "BBQ School",
@@ -111,7 +112,8 @@
         },
         {
           "@type": "HowToStep",
-          "text": "Remove the ribs and rest them in their pouches for at least 1 hour. They are done when the meat is tender but still stuck to the bone, and there is no meat recession. Serve with the apple bourbon BBQ sauce."
+          "text": "Remove the ribs and rest them in their pouches for at least 1 hour. They are done when the meat is tender but still stuck to the bone, and there is no meat recession. Serve with the apple bourbon BBQ sauce.",
+          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/baby-back-ribs-apple-bourbon-sauce/images/05a-finished.jpg"
         }
       ]
     }

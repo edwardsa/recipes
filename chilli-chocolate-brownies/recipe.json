@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "American BBQ: Spicy Cinnamon and Chilli Chocolate Brownies",
   "description": "Dark chocolate brownies spiced with chilli and cinnamon, baked in a 9x9 inch pan at 180°C on the BBQ kettle or in a hot BBQ.",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/chilli-chocolate-brownies/images/01a-finished.jpg",
   "author": {
     "@type": "Organization",
     "name": "BBQ School",
@@ -50,7 +51,8 @@
         },
         {
           "@type": "HowToStep",
-          "text": "Using the parchment lip, lift the brownies from the pan and cool completely. (Chef's tip: to greatly improve texture and flavour, wrap the slab in plastic and let it sit for several hours or overnight at room temperature.)"
+          "text": "Using the parchment lip, lift the brownies from the pan and cool completely. (Chef's tip: to greatly improve texture and flavour, wrap the slab in plastic and let it sit for several hours or overnight at room temperature.)",
+          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/chilli-chocolate-brownies/images/01a-finished.jpg"
         }
       ]
     }

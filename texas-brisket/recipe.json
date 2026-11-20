@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "American BBQ: Texas Style Low and Slow Cape Grim Brisket",
   "description": "Texas-style beef brisket with a dry rub applied the night before, smoked fat side up at 120-150°C for roughly 2 3/4 to 3 hours per kg, with chef's tips on the stall and the Texas crutch.",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/texas-brisket/images/03a-finished-sliced.jpg",
   "author": {
     "@type": "Organization",
     "name": "BBQ School",
@@ -73,7 +74,8 @@
         },
         {
           "@type": "HowToStep",
-          "text": "Place the brisket fat side up so the rendering fat drips back into the meat and keeps it moist. Cook at 120-150°C cabinet temperature for 2 3/4 to 3 hours per kg. Rest before slicing."
+          "text": "Place the brisket fat side up so the rendering fat drips back into the meat and keeps it moist. Cook at 120-150°C cabinet temperature for 2 3/4 to 3 hours per kg. Rest before slicing.",
+          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/texas-brisket/images/03a-finished-sliced.jpg"
         }
       ]
     },

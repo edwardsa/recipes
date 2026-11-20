@@ -4,3 +4,5 @@ Full recipe in `recipe.json` (schema.org/Recipe). Source: BBQ School, American S
 Ingredients are grouped into components (Filling / To wrap and serve) using "## Component" header rows.
 
 Cook time is 15 minutes (BBQ method) to 2 hours (smoking method); `cookTime` holds the longer figure.
+
+Images: `images/02a-finished.jpg` is the book's photo for this recipe, cropped from the PDF (low resolution, about 312x600).

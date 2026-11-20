@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "American BBQ: Memphis Style Pulled Pork with Memphis Mop Sauce and Cabbage and Apple Slaw",
   "description": "Dry-rubbed pork shoulder smoked low and slow, wrapped in butter (Texas crutch), pulled and served on bread with a tangy Memphis mop sauce and crisp cabbage and apple slaw.",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/memphis-pulled-pork/images/02a-rubbed-pork.jpg",
   "author": {
     "@type": "Organization",
     "name": "BBQ School",
@@ -60,7 +61,8 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "Trim any excess fat and pat the pork dry with paper towel. Season generously with the spice rub, covering all sides in an even layer. Wrap the shoulder tightly in cling film and refrigerate overnight."
+          "text": "Trim any excess fat and pat the pork dry with paper towel. Season generously with the spice rub, covering all sides in an even layer. Wrap the shoulder tightly in cling film and refrigerate overnight.",
+          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/memphis-pulled-pork/images/02a-rubbed-pork.jpg"
         }
       ]
     },

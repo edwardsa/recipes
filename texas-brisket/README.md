@@ -4,3 +4,5 @@ Full recipe in `recipe.json` (schema.org/Recipe). Source: BBQ School, American S
 Ingredients are grouped into components (Rub) using "## Component" header rows.
 
 Rub quantities are for a 4-6 kg brisket. Cook time is 8 to 12 hours plus resting; `cookTime` holds the longer figure. The brisket tips come from the book's Chef's Brisket Tips page.
+
+Images: `images/03a-finished-sliced.jpg` is the book's photo for this recipe, cropped from the PDF (low resolution, about 312x600).

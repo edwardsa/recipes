@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "American BBQ: Smoked Corn with Jalapeno and Lime Butter",
   "description": "Corn smoked in its husk until soft, charred on the grill and served with a charred jalapeno and lime butter.",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-corn-jalapeno-lime-butter/images/01a-finished.jpg",
   "author": {
     "@type": "Organization",
     "name": "BBQ School",
@@ -67,7 +68,8 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "Char the corn on the BBQ grill, then place on a serving plate topped with the butter and lime wedges."
+          "text": "Char the corn on the BBQ grill, then place on a serving plate topped with the butter and lime wedges.",
+          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-corn-jalapeno-lime-butter/images/01a-finished.jpg"
         }
       ]
     }
