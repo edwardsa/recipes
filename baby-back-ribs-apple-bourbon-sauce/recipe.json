@@ -1,0 +1,119 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "American BBQ: Baby Back Ribs with Apple Bourbon BBQ Sauce",
+  "description": "American-style pork baby back ribs rubbed overnight, smoked low and slow using the Minion method, wrapped in butter and finished with an apple bourbon BBQ sauce.",
+  "author": {
+    "@type": "Organization",
+    "name": "BBQ School",
+    "url": "https://www.bbqschool.com.au"
+  },
+  "prepTime": "PT30M",
+  "cookTime": "PT5H",
+  "recipeYield": "Serves 6",
+  "recipeIngredient": [
+    "4 kg American style pork baby back ribs, with plenty of meat along the top of the bone",
+    "## Rub",
+    "1/2 cup white sugar",
+    "4 tbsp demerara sugar",
+    "1/4 cup sweet paprika",
+    "1/8 cup smoked paprika",
+    "3 tbsp smoked chilli salt",
+    "2 tbsp chilli powder",
+    "2 tbsp cracked black pepper",
+    "1 tbsp celery salt",
+    "1 tbsp onion powder",
+    "1 tbsp garlic powder",
+    "2 tsp ground sage",
+    "1 tsp mustard powder",
+    "1/2 ground dried chipotle",
+    "1/2 ground guajillo chilli",
+    "1 tbsp instant coffee",
+    "1 tbsp cocoa powder",
+    "1 tbsp dried thyme",
+    "1 tbsp ground white pepper",
+    "1/8 tsp ground cinnamon",
+    "1/8 tsp ground star anise",
+    "## Apple Bourbon BBQ Sauce",
+    "500 mL Kentucky sour mash bourbon",
+    "1 L apple juice or apple cider",
+    "1 L Bull's Eye Original Smokey BBQ finishing sauce (or your choice of very smoky BBQ sauce)",
+    "KITM (Kick in the Mouth) flavouring, to taste",
+    "## For wrapping",
+    "butter",
+    "apple cider vinegar or some BBQ sauce",
+    "vegetable oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Rub",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all the dry rub ingredients in a grinder and blend until smooth. Taste and adjust as necessary. The spice mix keeps in an airtight container for up to 6 weeks in a cool, dry, dark place."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the ribs (night before)",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Remove the membrane from the underside of the bones with a boning knife (this lets the smoke flavour penetrate the whole rib and makes the meat fall-apart tender). Pat dry with paper towel, season generously with the spice rub, making sure there is an even layer on both sides, then wrap the ribs tightly in cling film and refrigerate overnight."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the BBQ",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Light the charcoal or heat the box. Cooking temperature should be around 120-150°C. Wait until the charcoal ashes over, stir, then pile for indirect cooking. If using an indirect smoke box, start the fire in the box and add dry hickory to begin. Use only a small line of charcoal in the main BBQ cavity."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Take the ribs out of the fridge 1 hour before cooking to let the meat come to room temperature."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Bourbon BBQ sauce",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the bourbon in a saucepan until just about to boil, then carefully flame off the alcohol (do this outside, as it produces intense heat and flames). Reduce by half, add the apple juice or cider, bring to the boil and reduce by half again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the BBQ sauce and your KITM flavour and heat through. Adjust the seasoning and set aside. (Chef's tip, KITM ideas: roasted garlic, chipotle chilli in adobo, fried bacon bits, caramelised onion, dark chocolate, instant coffee powder, honey garlic.)"
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Smoke",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Smoke the ribs over indirect heat for 3 hours at 120-150°C, using the Minion method to keep the temperature low and the cook time long."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the ribs from the smoker. On a double sheet of foil with a piece of baking paper, place 2 small slices of butter, put the ribs on top, add more butter on top of the ribs and a little apple cider vinegar or BBQ sauce. Wrap tightly and repeat with the remaining ribs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to the smoker for another 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the ribs and rest them in their pouches for at least 1 hour. They are done when the meat is tender but still stuck to the bone, and there is no meat recession. Serve with the apple bourbon BBQ sauce."
+        }
+      ]
+    }
+  ]
+}

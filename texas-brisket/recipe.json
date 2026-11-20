@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "American BBQ: Texas Style Low and Slow Cape Grim Brisket",
+  "description": "Texas-style beef brisket with a dry rub applied the night before, smoked fat side up at 120-150°C for roughly 2 3/4 to 3 hours per kg, with chef's tips on the stall and the Texas crutch.",
+  "author": {
+    "@type": "Organization",
+    "name": "BBQ School",
+    "url": "https://www.bbqschool.com.au"
+  },
+  "prepTime": "PT30M",
+  "cookTime": "PT12H",
+  "recipeYield": "Serves 6",
+  "recipeIngredient": [
+    "4-6 kg Cape Grim beef brisket",
+    "vegetable oil",
+    "## Rub",
+    "5 tbsp dark brown sugar",
+    "2 tbsp smoked paprika",
+    "4 tsp yellow mustard powder",
+    "2 tsp onion powder",
+    "2 tsp garlic powder",
+    "1.5 tsp dried basil",
+    "1 tsp ground bay leaf",
+    "3/4 tsp ground coriander seed",
+    "3/4 tsp ground savoury",
+    "3/4 tsp dried thyme",
+    "3/4 tsp ground black pepper",
+    "3/4 tsp ground white pepper",
+    "1/8 tsp ground cumin",
+    "1 tbsp sea salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Rub",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all the dry rub ingredients in a spice mill and blend until smooth and well combined. Taste and adjust as necessary. Store in an airtight container for up to 6 weeks in a cool, dry, dark place."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the brisket (night before)",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim the excess fat so there is an even 1/4 inch (about 6 mm) fat layer. Also remove any extremely hard fat chunks, which will not cook and give the brisket a strange texture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Rub the brisket with a light coating of vegetable oil, massaging it into every part of the meat (including the fat). Apply the dry rub generously in an even layer all over. Wrap tightly in cling film and refrigerate overnight."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Cook",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Take the brisket out of the fridge two hours before cooking and let it come to room temperature slowly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the smoker for indirect heat and let all the charcoal ash over before adding the brisket. If using an indirect firebox, build a small fire with charcoal and wood to ensure even indirect heat and smoke throughout the BBQ."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Unwrap the brisket, pat it dry with paper towels and apply another generous, even coat of the dry rub."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the brisket fat side up so the rendering fat drips back into the meat and keeps it moist. Cook at 120-150°C cabinet temperature for 2 3/4 to 3 hours per kg. Rest before slicing."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Chef's brisket tips",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Brisket is all about feel rather than the usual science of meat cooking. It depends on the type, weight, fat content and thickness of the brisket, your equipment and fuel, how close the brisket is to the fire and how often the smoker is opened. 120-150°C at 2 3/4 hours per kg puts you in the ballpark."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "A brisket will stall, with the temperature stopping its climb at around 72°C as evaporation cools the meat. To combat this, use the \"Texas crutch\": wrap the brisket very tightly in foil once you reach the stall. Cooking through this point is what makes the brisket tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Beer match: James Squire \"Hop Thief\" American Pale Ale."
+        }
+      ]
+    }
+  ]
+}

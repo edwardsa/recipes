@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "American BBQ: Smoked Corn with Jalapeno and Lime Butter",
+  "description": "Corn smoked in its husk until soft, charred on the grill and served with a charred jalapeno and lime butter.",
+  "author": {
+    "@type": "Organization",
+    "name": "BBQ School",
+    "url": "https://www.bbqschool.com.au"
+  },
+  "prepTime": "PT10M",
+  "cookTime": "PT1H",
+  "recipeYield": "Serves 6",
+  "recipeIngredient": [
+    "6 ears fresh corn, unhusked",
+    "lime wedges, to serve",
+    "## Jalapeno and Lime Butter",
+    "2 jalapeno chillies",
+    "100 g unsalted butter, room temperature",
+    "1 garlic clove, finely grated",
+    "2 limes, zest and juice",
+    "Murray River pink salt",
+    "freshly cracked black pepper",
+    "extra-virgin olive oil",
+    "vegetable oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Smoke the corn",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the BBQ by lighting charcoal or heating the box. Cooking temperature should be around 120-160°C. Wait until the charcoal ashes over, stir, then pile for indirect cooking. If using an indirect smoke box, start the fire in the box and add dry hickory and apple to begin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Peel back the husks, then place the corn in the smoker and smoke until soft. (Chef's tip: leaving the husk attached gives you a built-in handle to eat with.)"
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Jalapeno and lime butter",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Pre-heat the BBQ to hot, or use your grill over the offset firebox."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Char the chillies on all sides until the skin is blistered, then place in a small bowl, cover tightly with cling wrap and leave to cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Using a small paring knife, peel the skin off the chillies, scrape out the seeds and roughly chop."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the softened butter, then add the chillies, garlic and lime zest and juice. Mix well and season with salt and pepper."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Serve",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Char the corn on the BBQ grill, then place on a serving plate topped with the butter and lime wedges."
+        }
+      ]
+    }
+  ]
+}

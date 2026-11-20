@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "American BBQ: Bacon Wrapped Jalapeno Poppers",
+  "description": "Jalapenos stuffed with cream cheese, feta, tasty cheese and lime, wrapped in bacon and either smoked over cherrywood or roasted on the BBQ.",
+  "author": {
+    "@type": "Organization",
+    "name": "BBQ School",
+    "url": "https://www.bbqschool.com.au"
+  },
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
+  "recipeYield": "Serves 6",
+  "recipeIngredient": [
+    "12 jalapenos",
+    "## Filling",
+    "125 g cream cheese, softened",
+    "50 g feta",
+    "50 g grated tasty cheese",
+    "2 limes, zest and juice",
+    "Murray River pink salt",
+    "freshly cracked black pepper",
+    "## To wrap and serve",
+    "6 rashers bacon",
+    "toothpicks",
+    "lime wedges, to serve",
+    "extra-virgin olive oil",
+    "vegetable oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the BBQ",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Pre-heat the BBQ to hot, or prepare it by lighting charcoal or heating the box. Cooking temperature should be around 120-160°C. Wait until the charcoal ashes over, stir, then pile for indirect cooking. If using an indirect smoke box, start the fire in the box and add dry hickory to begin. Use only a small line of charcoal in the main BBQ cavity."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the jalapenos",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off each jalapeno just below the stem, then slice the jalapenos in half lengthwise."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Using a small paring knife, scrape out the seeds and veins. (Chef's tip: always wash your hands after handling jalapenos.)"
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Fill and wrap",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "For the filling, mix the cream cheese, feta, tasty cheese and lime zest and juice until well combined, and season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the filling into the middle of the jalapeno and join the two halves back together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut the bacon in half, wrap it tightly around each jalapeno and fix it in place with a toothpick."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Cook (choose one method)",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Smoking method (optional, but gives the best flavour and the most moisture retention): smoke the poppers at 200-250°F (about 95-120°C) for two hours using cherrywood."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "BBQ method: place the poppers in the centre of the BBQ with the middle burners off and the side burners on medium, close the lid and roast for 10 to 15 minutes, or until the bacon is crispy and the chilli is soft."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Serve",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange on a serving platter with lime wedges."
+        }
+      ]
+    }
+  ]
+}

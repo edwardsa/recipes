@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "American BBQ: Memphis Style Pulled Pork with Memphis Mop Sauce and Cabbage and Apple Slaw",
+  "description": "Dry-rubbed pork shoulder smoked low and slow, wrapped in butter (Texas crutch), pulled and served on bread with a tangy Memphis mop sauce and crisp cabbage and apple slaw.",
+  "author": {
+    "@type": "Organization",
+    "name": "BBQ School",
+    "url": "https://www.bbqschool.com.au"
+  },
+  "prepTime": "PT30M",
+  "cookTime": "PT5H",
+  "recipeYield": "Serves 6",
+  "recipeIngredient": [
+    "3 kg pork shoulder, bone out, skin off",
+    "## Rub",
+    "2 tbsp sweet paprika",
+    "1 tbsp sea salt",
+    "1 tbsp onion powder",
+    "2 tsp ground black pepper",
+    "1.5 tsp ground cayenne pepper",
+    "3 tbsp brown sugar",
+    "1 tbsp celery salt",
+    "1 tsp garlic powder",
+    "## Memphis Mop Sauce",
+    "1 brown onion, finely diced",
+    "2 garlic cloves, finely grated",
+    "250 ml red wine vinegar",
+    "1/4 cup American style yellow mustard",
+    "1/4 cup brown sugar",
+    "1/2 tsp Louisiana hot sauce (Tabasco, or Sriracha)",
+    "500 ml tomato ketchup",
+    "## Cabbage and Apple Slaw",
+    "1/2 green cabbage, finely shredded",
+    "1/2 red cabbage, finely shredded",
+    "2 carrots, peeled and finely shredded",
+    "2 Granny Smith apples, finely shredded",
+    "1/2 cup apple cider vinegar",
+    "1/3 cup sugar",
+    "1 1/2 tsp Murray River salt",
+    "## To finish and serve",
+    "butter, for wrapping",
+    "splash of apple juice or cider, for wrapping (optional)",
+    "bread, to serve"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Rub",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the paprika, salt, onion powder, black pepper, cayenne pepper, brown sugar, celery salt and garlic powder in a spice mill and grind until smooth and well combined. Taste and adjust as necessary. Store in an airtight container for up to 6 weeks in a cool, dry, dark place."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the pork (night before)",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim any excess fat and pat the pork dry with paper towel. Season generously with the spice rub, covering all sides in an even layer. Wrap the shoulder tightly in cling film and refrigerate overnight."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Smoke",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the BBQ by lighting charcoal or heating the box. Cooking temperature should be around 100-150°C. Wait until the charcoal ashes over, stir, then pile for indirect cooking. If using an indirect smoke box, start the fire in the box and add dry hickory to begin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Smoke the pork for about 3 hours, or until it reaches 71°C internal temperature, then remove from the smoker."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use the \"Texas crutch\" method: wrap the pork with butter (a splash of apple juice or cider adds extra moisture and flavour). Return to the smoker until the meat pulls apart, about another 2 hours at a cabinet temperature of 150°C."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Memphis mop sauce",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Pre-heat a medium saucepan on the BBQ side burner, add the onion and garlic and saute until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the red wine vinegar and bring to the boil, then remove from the heat and add the mustard, brown sugar and hot sauce. Blend with a stick blender until combined and smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the pan to the heat and add the tomato ketchup. Bring to the boil, then reduce the heat and simmer for 15 to 20 minutes until the sauce is smooth and well developed."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Slaw",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, toss together the green and red cabbage, carrot and apple."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the salt, sugar and apple cider vinegar in a bowl and mix to dissolve. Pour over the slaw and toss to coat."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Finish and serve",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Unwrap the pork and pour the pork and its cooking juices into a bowl. Using 2 forks, pull the meat into shreds, add 1/3 of the mop sauce and season with salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, spread a little of the reserved sauce onto the bread, top with pulled pork and slaw."
+        }
+      ]
+    }
+  ]
+}
