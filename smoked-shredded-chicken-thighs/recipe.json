@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "name": "American BBQ: Smoked Shredded Chicken Thighs",
   "description": "Skinless chicken thighs rubbed and rested in the fridge, smoked at 110°C, sprayed with apple cider vinegar, wrapped after an hour and finished hotter at 150°C until 90°C inside, then shredded in their juices.",
-  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-shredded-chicken-thighs/images/04a-finished.jpg",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-shredded-chicken-thighs/images/04a-shredded.jpg",
   "prepTime": "PT20M",
   "cookTime": "PT3H30M",
   "recipeYield": "1-1.5 kg chicken thighs",
@@ -90,7 +90,7 @@
         {
           "@type": "HowToStep",
           "text": "Serve on bread rolls with cabbage and apple slaw.",
-          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-shredded-chicken-thighs/images/04a-finished.jpg"
+          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-shredded-chicken-thighs/images/04a-shredded.jpg"
         }
       ]
     }
