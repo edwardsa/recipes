@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "American BBQ: Smoked Shredded Chicken Thighs",
+  "description": "Skinless chicken thighs rubbed and rested in the fridge, smoked at 110°C, sprayed with apple cider vinegar, wrapped after an hour and finished hotter at 150°C until 90°C inside, then shredded in their juices.",
+  "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-shredded-chicken-thighs/images/04a-finished.jpg",
+  "prepTime": "PT20M",
+  "cookTime": "PT3H30M",
+  "recipeYield": "1-1.5 kg chicken thighs",
+  "recipeIngredient": [
+    "1-1.5 kg chicken thighs, skin off (bone-in or boneless)",
+    "## Rub (half batch of the Memphis pulled pork rub)",
+    "1 tbsp sweet paprika",
+    "1/2 tbsp sea salt (1.5 tsp)",
+    "1.5 tsp onion powder",
+    "1 tsp ground black pepper",
+    "3/4 tsp ground cayenne pepper",
+    "1.5 tbsp brown sugar",
+    "1.5 tsp celery salt",
+    "1/2 tsp garlic powder",
+    "## Cooking",
+    "apple cider vinegar, in a spray bottle",
+    "mild fruit wood chunks (apple or cherry)",
+    "butter, for wrapping",
+    "splash of apple juice or cider, for wrapping",
+    "## To serve (optional)",
+    "BBQ sauce or Memphis mop sauce",
+    "bread rolls",
+    "cabbage and apple slaw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Rub (2 hours ahead)",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rub ingredients. Pat the thighs dry, apply the rub evenly all over, and leave them in the fridge for 2 hours."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Smoke at 110°C",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the BBQ for indirect heat at about 110°C. Wait until the charcoal ashes over, stir, then pile for indirect cooking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the chicken in. Add just enough wood to smoke for the first 30 minutes only; chicken takes smoke quickly and fruit wood is milder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spray lightly with apple cider vinegar while smoking to keep the surface moist."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Wrap and finish at 150°C",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "After 1 hour, wrap the thighs tightly in a foil pan or double foil with a knob of butter and a splash of apple juice or cider (Texas crutch)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn the heat up to about 150°C after wrapping to speed up the cook, and return the wrapped chicken to the BBQ."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the thighs reach 90°C inside and the probe slides in with almost no resistance. Remove at 90°C."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Rest and shred",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Rest in the wrap for 15-20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove any bones, tip the meat and juices into a bowl and pull apart with two forks. Toss in the juices, season with salt, and add BBQ sauce or mop sauce if you like."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve on bread rolls with cabbage and apple slaw.",
+          "image": "https://raw.githubusercontent.com/edwardsa/recipes/refs/heads/main/smoked-shredded-chicken-thighs/images/04a-finished.jpg"
+        }
+      ]
+    }
+  ]
+}

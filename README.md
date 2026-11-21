@@ -12,3 +12,4 @@ clips) used by my recipe app. Media is served via raw.githubusercontent.com URLs
 - [American BBQ: Texas Style Low and Slow Cape Grim Brisket](texas-brisket/) — rubbed and smoked brisket with stall/crutch tips.
 - [American BBQ: Smoked Corn with Jalapeno and Lime Butter](smoked-corn-jalapeno-lime-butter/) — smoked then charred corn.
 - [American BBQ: Spicy Cinnamon and Chilli Chocolate Brownies](chilli-chocolate-brownies/) — chilli-spiced brownies baked on the BBQ.
+- [American BBQ: Smoked Shredded Chicken Thighs](smoked-shredded-chicken-thighs/) — skinless thighs smoked at 110°C, wrapped, finished at 150°C.
